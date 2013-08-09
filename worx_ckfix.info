@@ -1,0 +1,3 @@
+name = Worx CKEditor Fix
+description = Applies a fix to the CKEditor that allows embeds to be returned when editing a node. Fix originated at https://drupal.org/node/1956778
+core = 7.x
